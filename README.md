@@ -4,6 +4,8 @@ This project was developed as part of a team assignment at Roskilde Tekniske Sko
 
 Within the web application **HiFi Horizon**, I was responsible for designing and implementing several key features across both frontend and backend. The sections below highlight my contributions and demonstrate my skills in React development, API integration, and backend services.
 
+Here i have a link to the mail service repository from GitHub
+[mail service api](https://github.com/DenisseDaugaard/HIFI__mail)
 ---
 
 ## Key Contributions
